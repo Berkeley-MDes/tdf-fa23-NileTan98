@@ -1,9 +1,0 @@
----
-#Report 1 - Week of 08/21/2023 #
-For this past week, I've started using Github for the first time. I've also started learning Rhino from beginning.
-
-It's daunting to learn Rhino and can't say I fully understand how it works, but I'm also excited :)
-
- [README.md](../README.md) 
-
----
