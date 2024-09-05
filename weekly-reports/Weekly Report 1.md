@@ -4,6 +4,7 @@ For this past week, I've started using Github for the first time. I've also star
 
 It's daunting to learn Rhino and can't say I fully understand how it works, but I'm also excited :)
 
+[Read Me](https://github.com/Berkeley-MDes/tdf-fa24-NileTan98/blob/main/README.md)
 
 ---
 
