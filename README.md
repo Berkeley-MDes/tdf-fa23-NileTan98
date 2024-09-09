@@ -1,6 +1,6 @@
 # TDF Weekly Report
 
-## Report 2 - Week of 09/05/2024
+## Week 2 Report
 Here's my understanding of how to use Grasshopper to create a cellphone stand. It starts with setting up the parameters, then we go on to make two separate things:
 1. a cellphone
 2. a stand
@@ -20,7 +20,7 @@ Then, I tried to replace the cylinder with a cone:
 It was very cool to see how easily I can reshape the design with very simple instructions. However, I can't manage to make the end result stay "green." Some errors always occured when I tried to play with the parameters.
 
 
-## Report 1 - Week of 08/23/2024
+## Week 1 Report
 For this past week, I've started using Github for the first time. I've also started learning Rhino from beginning.
 
 It's daunting to learn Rhino and can't say I fully understand how it works, but I'm also excited :)
