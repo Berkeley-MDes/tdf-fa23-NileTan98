@@ -9,6 +9,16 @@ The cellphone is basically a cylinder and the stand is created through creating 
 
 <img width="994" alt="Screenshot 2024-09-09 at 2 39 44 PM" src="https://github.com/user-attachments/assets/ba30447b-8b66-4b1a-830d-f960605051a4">
 
+To mess with the parameters and dimensions of the stand, I first adjusted the radius of the two spheres:
+
+<img width="646" alt="Screenshot 2024-09-09 at 2 46 22 PM" src="https://github.com/user-attachments/assets/403caa48-a957-4476-b549-73021a13f92e">
+
+Then, I tried to replace the cylinder with a cone:
+
+<img width="931" alt="Screenshot 2024-09-09 at 2 48 09 PM" src="https://github.com/user-attachments/assets/0b453e75-95a5-4bc6-95de-f3a2f8558035">
+
+It was very cool to see how easily I can reshape the design with very simple instructions. However, I can't manage to make the end result stay "green." Some errors always occured when I tried to play with the parameters.
+
 
 ## Report 1 - Week of 08/23/2024
 For this past week, I've started using Github for the first time. I've also started learning Rhino from beginning.
