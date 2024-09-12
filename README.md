@@ -19,6 +19,16 @@ Then, I tried to replace the cylinder with a cone:
 
 It was very cool to see how easily I can reshape the design with very simple instructions. However, I can't manage to make the end result stay "green." Some errors always occured when I tried to play with the parameters.
 
+Lastly, I tried to replicate TJ's demo during Monday's class and create a box with a hallowed cylinder inside:
+
+<img width="1136" alt="Screenshot 2024-09-11 at 5 37 53 PM" src="https://github.com/user-attachments/assets/0d95cd25-8098-4445-aa77-9071d65ced4f">
+
+Here is the Grasshooper commands I used to achieve the modeling above:
+
+<img width="1025" alt="Screenshot 2024-09-11 at 5 34 28 PM" src="https://github.com/user-attachments/assets/b226be69-85af-4c96-9339-86311cafb6d9">
+
+I'm somewhat happy with the end result as it was the first thing I ever created via Grasshopper. I feel like I'm starting to get a hang of it thought process behind how Grasshopper works.
+
 
 ## Week 1 Report
 For this past week, I've started using Github for the first time. I've also started learning Rhino from beginning.
